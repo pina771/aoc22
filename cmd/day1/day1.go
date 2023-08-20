@@ -20,8 +20,7 @@ func main() {
 		fmt.Println("Error reading file")
 		return
 	}
-
-	lines := strings.Split(string(data), "\n")
+	lines := strings.Split(strings.ReplaceAll(string(data), "\r\n", "\n"), "\n")
 
 	sums := []int{}
 	current := 0
