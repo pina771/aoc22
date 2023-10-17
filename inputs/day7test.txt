@@ -1,0 +1,28 @@
+$ cd /
+$ ls
+187585 dgflmqwt.srm
+dir gnpd
+200058 hbnlqs
+dir jsv
+dir mfhzl
+dir nljtr
+dir nwzp
+61949 qdswp.wfj
+21980 rbq.hpj
+dir rfwwwgr
+dir sbnhc
+dir zhfl
+136762 zwg
+$ cd gnpd
+$ ls
+dir dcqq
+dir dnscfz
+dir dwqbhgc
+dir lsrb
+167581 ndwfr.pbv
+dir pbgrdvmc
+dir sbnhc
+144703 sct
+dir smfhldss
+$ cd dcqq
+$ ls
