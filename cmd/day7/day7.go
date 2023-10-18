@@ -17,9 +17,6 @@ type Directory struct {
 	filesize int
 }
 
-// func (dir *Directory) dirSize() int {
-// }
-
 func main() {
 	cwd, err := os.Getwd()
 	if err != nil {
